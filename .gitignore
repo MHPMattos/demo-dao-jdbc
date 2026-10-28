@@ -1,0 +1,5 @@
+# Arquivos compilados pelo Maven
+target/
+# Configurações locais de IDE
+.settings/ .classpath
+.project
