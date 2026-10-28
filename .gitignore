@@ -1,3 +1,4 @@
+
 # Maven<<<<<<< HEAD Arquivos compilados pelo Maven
 target/target/
 # Configurações locais de IDE Eclipse / Spring Tools.settings/ 
@@ -26,3 +27,6 @@ target/target/
 hs_err_pid*
 replay_pid*
 >>>>>>> f1d00b81c7723e441cc8d9fd6b461fa50c8cd64c
+
+# Credenciais locais
+src/main/resources/db.properties
