@@ -1,18 +1,10 @@
 package application;
 
-import java.sql.Connection;
-import java.sql.Date;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 
-import database.DataBase;
-import exceptions.DBIntegrityException;
-import exceptions.DbException;
 import model.entities.Department;
+import model.entities.Seller;
+
+import java.util.Date;
 
 public class Program {
 	public static void main(String[] args) {
