@@ -12,11 +12,11 @@ import java.text.SimpleDateFormat;
 import database.DataBase;
 import exceptions.DBIntegrityException;
 import exceptions.DbException;
+import model.entities.Department;
 
 public class Program {
 	public static void main(String[] args) {
 
-	
 	}
 
 }
